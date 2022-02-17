@@ -1,5 +1,3 @@
 # odin-recipes
 
-This is my firt repo!
-
-Hello Odin!
+This website will consist of a main index page which will have links to a few recipies.
